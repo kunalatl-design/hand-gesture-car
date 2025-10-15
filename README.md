@@ -29,7 +29,7 @@ Upload your car photos in this repository and rename them as:
 Then it will show below:
 
 ![Car 1](handguestercar1.jpg)
-![Car 2]( hand guestercar2.jpg )
+![Car 2](handguestercar2.jpg)
 ![transmitter 3](handtransmitter3.jpg)
 ![transmitter 4](transmitter4.jpg)
 
